@@ -1,0 +1,6 @@
+[submodule "electroplan-backend"]
+	path = electroplan-backend
+	url = git@github.com:Darrriax/electroplan-backend.git
+[submodule "electroplan-frontend"]
+	path = electroplan-frontend
+	url = git@github.com:Darrriax/electroplan-frontend.git
